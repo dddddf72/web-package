@@ -36,7 +36,7 @@ const config =  {
     devtool:"inline-source-map",
     devServer:{
         contentBase:"./dist",
-        port:8000,
+        port:8080,
         host:"localhost",
         overlay:{
             errors:true
